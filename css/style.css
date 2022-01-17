@@ -186,17 +186,15 @@ body{
     position: relative;
     width: 350px;
     height: 400px;
-    margin: 40px 20px 70px;
+    margin: 20px 20px;
 }
 
 .container-projects .box-projects .cards{
     position: relative;
     width: 250px;
-    height: 350px;
+    height: 300px;
     margin: 20px 20px 20px 45px;
     overflow: hidden;
-    box-shadow: 0 5px 15px rgba(255,255,255,.4);
-    border-radius: 15px;
 }
 
 .container-projects .box-projects .cards img{
@@ -301,6 +299,9 @@ body{
 }
 .color-bs{
     color: #673AB7;
+}
+.color-react{
+    color: #61dbfb;
 }
 /*FORM*/
 .container-contact{
